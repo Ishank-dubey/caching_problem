@@ -1,5 +1,5 @@
-1. Cache-Control: max-age=0
-2. Cache-Control: no-cache
-3. Adjust the TTLs
+1. In Response Header set the header Cache-Control: max-age=0
+2. In Response Header set the header Cache-Control: no-cache, this causes Page to load slow in some browsers
+3. Server/origin/distribution setting can Adjust the TTLs
 4 Change the name of the resourse(s) served like css, js, 
-  html can be names as the names appended with a version number or date/time stamp
+  html can be named their names appended with a incremental version number or current date/time stamp
