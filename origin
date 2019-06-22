@@ -1,0 +1,5 @@
+1. Cache-Control: max-age=0
+2. Cache-Control: no-cache
+3. Adjust the TTLs
+4 Change the name of the resourse(s) served like css, js, 
+  html can be names as the names appended with a version number or date/time stamp
