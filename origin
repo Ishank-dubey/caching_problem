@@ -5,3 +5,4 @@
   html can be named their names appended with a incremental version number or current date/time stamp
 5. In AWS certain paths can be invalidated but that is billable.
 6. Cache Busting via Gulp or manual versioning(for resourse files like css, js or html)
+7. Use [chunckhash] property in Webpack while creating the bundles for the app
